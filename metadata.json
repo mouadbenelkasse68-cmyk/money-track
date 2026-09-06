@@ -1,0 +1,6 @@
+{
+  "name": "MoneyTrack",
+  "description": "A modern personal finance app to track spending, set savings goals, manage budgets, and build healthy money habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
